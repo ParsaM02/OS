@@ -1,0 +1,61 @@
+1) a. Referee
+     Prevent users from accessing each other's files without permission
+     Even after a file is deleting and its space re-used
+
+   b. Illusionist
+      Files can grow (nearly) arbitrarily large
+      Files persist even when the machine crashes in the middle of a save
+
+   c. Glue 
+      Named directories, printf,...
+
+2)  Reliability
+     Does the system do what it was designed to do?
+
+    Availability
+     What portion of the time is the system working?
+     Mean Time To Failure (MTTF), Mean Time to Repair
+
+    Security
+     Can the system be compromised by an attacker?
+
+    Privacy
+     Data is accessible only to authorized users
+
+3) Direct memory access (DMA) is the process of transferring data without the involvement of the processor itself.
+   It is often used for transferring data to/from input/output devices. A separate DMA controller is required to handle the transfer.
+   The controller notifies the DSP processor that it is ready for a transfer.
+
+4) b.The operating system is allocated space first, usually at either low or high memory locations,
+     and then the remaining available memory is allocated to processes as needed.
+
+5) b.backup-password protect documents-hide data
+   c.antivirus
+
+6) through the file system-through messages passed between applications-throug regions of memory shared between the applications.
+   according to the type of applications all the options are correct.
+
+7) the virtual memory system uses the RAM + Hard Disk space and the combined hardware and software support to 
+   provide the illusion of a nearly infinite virtual memory on a limited amount of physical memory.
+
+8) from the virtual machine like vmware.
+
+9)
+
+10) Governments use permits to allocate some resources like petroleum, natural gas, etc.
+    A company that wants to drill or mine for example must first get a permit to do so.
+    To isolate misuse government pass legislation that define what misuse is what what the consequence for misuse is.
+    Typically they’ll impose fines or even incarcerate individuals that misuse resources.
+
+11) design an os with reliability,security,portability,performance and adoption.
+
+12) make a checkpoint at a regular internal as the os is running.
+
+
+
+
+
+
+
+
+
